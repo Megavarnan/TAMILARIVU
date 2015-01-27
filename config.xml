@@ -2,8 +2,8 @@
 <widget xmlns = "http://www.w3.org/ns/widgets"
 	xmlns:gap = "http://phonegap.com/ns/1.0"
 	id        = "SJKTTS INNOVATION CLUB"
-	versionCode="2"
-	version   = "2.1">
+	versionCode="2x"
+	version   = "2.2">
 <name>TAMIL ARIVU</name>
 <description>
 TAMIL PRIMARY SCHOOLS LANGUAGE COMPONENTS GUIDE</description>
@@ -12,12 +12,8 @@ email="mgvn27@gmail.com">
 SJKTTS INNOVATION CLUB
 </author>
 	
-    <!-- Define app icon MAIN ROOT Platform. -->
-	
-<icon src="icon.png" />		
-       
-	<!-- 
-		Enable individual API permissions here.
+    <!--
+        Enable individual API permissions here.
         The "device" permission is required for the 'deviceready' event.
     -->
     <feature name="http://api.phonegap.com/1.0/device" />
