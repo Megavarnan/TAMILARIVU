@@ -2,8 +2,8 @@
 <widget xmlns = "http://www.w3.org/ns/widgets"
 	xmlns:gap = "http://phonegap.com/ns/1.0"
 	id        = "SJKTTS INNOVATION CLUB"
-	versionCode="2x"
-	version   = "2.2">
+	versionCode="3x"
+	version   = "3.1">
 <name>TAMIL ARIVU</name>
 <description>
 TAMIL PRIMARY SCHOOLS LANGUAGE COMPONENTS GUIDE</description>
